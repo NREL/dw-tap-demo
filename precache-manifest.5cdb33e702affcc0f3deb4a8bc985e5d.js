@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24d1ad791af494e915122c19e0825218",
+    "revision": "94f46571849ce40d07458be5c430b3d1",
     "url": "/dw-tap-demo/index.html"
   },
   {
-    "revision": "ed5aa598bcef628dacbb",
+    "revision": "177e8abff22e13496423",
     "url": "/dw-tap-demo/static/css/main.57d4478e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dw-tap-demo/static/js/2.f587709c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed5aa598bcef628dacbb",
-    "url": "/dw-tap-demo/static/js/main.2ddeca52.chunk.js"
+    "revision": "177e8abff22e13496423",
+    "url": "/dw-tap-demo/static/js/main.f0d88566.chunk.js"
   },
   {
     "revision": "a0bded07b8e70af78551",
