@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dw-tap-demo/static/css/main.57d4478e.chunk.css",
-    "main.js": "/dw-tap-demo/static/js/main.2ddeca52.chunk.js",
-    "main.js.map": "/dw-tap-demo/static/js/main.2ddeca52.chunk.js.map",
+    "main.js": "/dw-tap-demo/static/js/main.f0d88566.chunk.js",
+    "main.js.map": "/dw-tap-demo/static/js/main.f0d88566.chunk.js.map",
     "runtime-main.js": "/dw-tap-demo/static/js/runtime-main.14cbf67b.js",
     "runtime-main.js.map": "/dw-tap-demo/static/js/runtime-main.14cbf67b.js.map",
     "static/js/2.f587709c.chunk.js": "/dw-tap-demo/static/js/2.f587709c.chunk.js",
     "static/js/2.f587709c.chunk.js.map": "/dw-tap-demo/static/js/2.f587709c.chunk.js.map",
     "index.html": "/dw-tap-demo/index.html",
-    "precache-manifest.b73a8572d4e00da540d6da9c0cc8a72f.js": "/dw-tap-demo/precache-manifest.b73a8572d4e00da540d6da9c0cc8a72f.js",
+    "precache-manifest.5cdb33e702affcc0f3deb4a8bc985e5d.js": "/dw-tap-demo/precache-manifest.5cdb33e702affcc0f3deb4a8bc985e5d.js",
     "service-worker.js": "/dw-tap-demo/service-worker.js",
     "static/css/main.57d4478e.chunk.css.map": "/dw-tap-demo/static/css/main.57d4478e.chunk.css.map",
     "static/js/2.f587709c.chunk.js.LICENSE.txt": "/dw-tap-demo/static/js/2.f587709c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.14cbf67b.js",
     "static/js/2.f587709c.chunk.js",
     "static/css/main.57d4478e.chunk.css",
-    "static/js/main.2ddeca52.chunk.js"
+    "static/js/main.f0d88566.chunk.js"
   ]
 }
